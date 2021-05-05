@@ -1,0 +1,44 @@
+#header {
+    height: 30px;
+    width: 100%;
+}
+html{
+    height: 100%;
+}
+body {
+    background: linear-gradient(-135deg, #E4A972, #9941D8);
+    height: 100%;
+}
+#Main-MyName{
+    color: floralwhite;
+    font-family: "Ravi Prakash", cursive;
+    font-size: 80px;
+}
+#Sns-list{
+    float: left;
+    padding: 0 0 0 0;
+    text-align: center;
+}
+#Sns-list li{
+    float: left;
+    list-style: none;
+    padding: 10px;
+}
+.borderRound{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    color: #ffffff;/*文字色*/
+    background: rgba(255, 255, 255, 0);
+    border: solid 3px #ffffff;/*線*/
+    border-radius: 10px;/*角の丸み*/
+    text-decoration: none;
+}
+.center{
+    vertical-align: middle;
+    text-align: center;
+    height: 100%;
+}
+.main{
+    height: 100%;
+}
