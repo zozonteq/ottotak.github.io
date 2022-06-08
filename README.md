@@ -1,6 +1,5 @@
 # ZozonTeq.github.io
 # overview
-This is the homepage about me.
-some page do not finish to create.
+This is the Profile page about me.
 # url
 https://zozonteq.github.io
